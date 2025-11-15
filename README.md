@@ -1,4 +1,4 @@
-# k8s-demo
+# Kubernetes depoly
 Kubernetes manifests to run the docker-hello Flask app in a cluster.
 
 ## Apply manifests
